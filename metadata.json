@@ -1,0 +1,6 @@
+{
+  "name": "Messwise: Hostel Mess Feedback & Analytics",
+  "description": "Hostel mess feedback collection and analytics platform for students and mess authorities with food quality monitoring, recurring issue detection, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
